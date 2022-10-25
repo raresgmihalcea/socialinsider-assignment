@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg preserveAspectRatio="none" version="1.1" viewBox="0 0 1440 560" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g fill="none" mask="url(#h)">
+<use xlink:href="#g"/>
+<use x="720" xlink:href="#g"/>
+</g>
+<defs>
+<mask id="h">
+<rect width="1440" height="560" fill="#fff"/>
+</mask>
+<path id="d" d="m-1 0a1 1 0 1 0 2 0 1 1 0 1 0-2 0z"/>
+<path id="e" d="m-3 0a3 3 0 1 0 6 0 3 3 0 1 0-6 0z"/>
+<path id="b" d="m-5 0a5 5 0 1 0 10 0 5 5 0 1 0-10 0z"/>
+<path id="c" d="m2-2-4 4z"/>
+<path id="a" d="m6-6-12 12z"/>
+<path id="f" d="m30-30-60 60z"/>
+</defs>
+<symbol id="g" stroke="rgba(237, 193, 55, 0.51)">
+<use x="30" y="30" xlink:href="#c"/>
+<use x="30" y="90" xlink:href="#c"/>
+<use x="30" y="150" xlink:href="#a"/>
+<use x="30" y="210" xlink:href="#d"/>
+<use x="30" y="270" xlink:href="#d"/>
+<use x="30" y="330" xlink:href="#a"/>
+<use x="30" y="390" xlink:href="#a"/>
+<use x="30" y="450" xlink:href="#b"/>
+<use x="30" y="510" xlink:href="#b"/>
+<use x="30" y="570" xlink:href="#a"/>
+<use x="90" y="30" xlink:href="#a"/>
+<use x="90" y="90" xlink:href="#b"/>
+<use x="90" y="150" xlink:href="#e"/>
+<use x="90" y="210" stroke-width="3" xlink:href="#f"/>
+<use x="90" y="270" xlink:href="#b"/>
+<use x="90" y="330" xlink:href="#d"/>
+<use x="90" y="390" xlink:href="#d"/>
+<use x="90" y="450" stroke-width="3" xlink:href="#f"/>
+<use x="90" y="510" xlink:href="#a"/>
+<use x="90" y="570" xlink:href="#d"/>
+<use x="150" y="30" xlink:href="#c"/>
+<use x="150" y="90" xlink:href="#c"/>
+<use x="150" y="150" xlink:href="#a"/>
+<use x="150" y="210" xlink:href="#c"/>
+<use x="150" y="270" xlink:href="#e"/>
+<use x="150" y="330" xlink:href="#c"/>
+<use x="150" y="390" xlink:href="#a"/>
+<use x="150" y="450" xlink:href="#c"/>
+<use x="150" y="510" xlink:href="#c"/>
+<use x="150" y="570" xlink:href="#b"/>
+<use x="210" y="30" xlink:href="#b"/>
+<use x="210" y="90" xlink:href="#c"/>
+<use x="210" y="150" xlink:href="#d"/>
+<use x="210" y="210" xlink:href="#c"/>
+<use x="210" y="270" xlink:href="#c"/>
+<use x="210" y="330" xlink:href="#b"/>
+<use x="210" y="390" xlink:href="#a"/>
+<use x="210" y="450" xlink:href="#d"/>
+<use x="210" y="510" xlink:href="#b"/>
+<use x="210" y="570" xlink:href="#d"/>
+<use x="270" y="30" xlink:href="#a"/>
+<use x="270" y="90" xlink:href="#d"/>
+<use x="270" y="150" xlink:href="#b"/>
+<use x="270" y="210" xlink:href="#b"/>
+<use x="270" y="270" xlink:href="#a"/>
+<use x="270" y="330" xlink:href="#b"/>
+<use x="270" y="390" xlink:href="#a"/>
+<use x="270" y="450" stroke-width="3" xlink:href="#f"/>
+<use x="270" y="510" xlink:href="#a"/>
+<use x="270" y="570" stroke-width="3" xlink:href="#f"/>
+<use x="330" y="30" xlink:href="#a"/>
+<use x="330" y="90" xlink:href="#b"/>
+<use x="330" y="150" xlink:href="#e"/>
+<use x="330" y="210" xlink:href="#a"/>
+<use x="330" y="270" xlink:href="#a"/>
+<use x="330" y="330" xlink:href="#b"/>
+<use x="330" y="390" xlink:href="#c"/>
+<use x="330" y="450" xlink:href="#c"/>
+<use x="330" y="510" xlink:href="#e"/>
+<use x="330" y="570" xlink:href="#a"/>
+<use x="390" y="30" xlink:href="#a"/>
+<use x="390" y="90" xlink:href="#b"/>
+<use x="390" y="150" xlink:href="#b"/>
+<use x="390" y="210" xlink:href="#a"/>
+<use x="390" y="270" xlink:href="#b"/>
+<use x="390" y="330" xlink:href="#c"/>
+<use x="390" y="390" xlink:href="#a"/>
+<use x="390" y="450" xlink:href="#b"/>
+<use x="390" y="510" xlink:href="#c"/>
+<use x="390" y="570" xlink:href="#b"/>
+<use x="450" y="30" xlink:href="#b"/>
+<use x="450" y="90" xlink:href="#b"/>
+<use x="450" y="150" stroke-width="3" xlink:href="#f"/>
+<use x="450" y="210" xlink:href="#a"/>
+<use x="450" y="270" xlink:href="#a"/>
+<use x="450" y="330" xlink:href="#c"/>
+<use x="450" y="390" stroke-width="3" xlink:href="#f"/>
+<use x="450" y="450" xlink:href="#a"/>
+<use x="450" y="510" xlink:href="#b"/>
+<use x="450" y="570" xlink:href="#c"/>
+<use x="510" y="30" xlink:href="#d"/>
+<use x="510" y="90" xlink:href="#c"/>
+<use x="510" y="150" xlink:href="#c"/>
+<use x="510" y="210" xlink:href="#b"/>
+<use x="510" y="270" xlink:href="#a"/>
+<use x="510" y="330" xlink:href="#c"/>
+<use x="510" y="390" xlink:href="#a"/>
+<use x="510" y="450" xlink:href="#b"/>
+<use x="510" y="510" xlink:href="#b"/>
+<use x="510" y="570" xlink:href="#e"/>
+<use x="570" y="30" xlink:href="#e"/>
+<use x="570" y="90" xlink:href="#d"/>
+<use x="570" y="150" xlink:href="#c"/>
+<use x="570" y="210" stroke-width="3" xlink:href="#f"/>
+<use x="570" y="270" xlink:href="#b"/>
+<use x="570" y="330" xlink:href="#d"/>
+<use x="570" y="390" xlink:href="#a"/>
+<use x="570" y="450" xlink:href="#a"/>
+<use x="570" y="510" xlink:href="#a"/>
+<use x="570" y="570" xlink:href="#a"/>
+<use x="630" y="30" xlink:href="#a"/>
+<use x="630" y="90" xlink:href="#a"/>
+<use x="630" y="150" xlink:href="#e"/>
+<use x="630" y="210" xlink:href="#a"/>
+<use x="630" y="270" xlink:href="#b"/>
+<use x="630" y="330" xlink:href="#b"/>
+<use x="630" y="390" xlink:href="#e"/>
+<use x="630" y="450" xlink:href="#b"/>
+<use x="630" y="510" xlink:href="#a"/>
+<use x="630" y="570" xlink:href="#b"/>
+<use x="690" y="30" xlink:href="#c"/>
+<use x="690" y="90" xlink:href="#b"/>
+<use x="690" y="150" xlink:href="#b"/>
+<use x="690" y="210" xlink:href="#d"/>
+<use x="690" y="270" xlink:href="#a"/>
+<use x="690" y="330" xlink:href="#a"/>
+<use x="690" y="390" xlink:href="#b"/>
+<use x="690" y="450" xlink:href="#a"/>
+<use x="690" y="510" xlink:href="#b"/>
+<use x="690" y="570" xlink:href="#d"/>
+</symbol>
+</svg>

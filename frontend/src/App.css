@@ -1,0 +1,32 @@
+html, body, #root, #root>div {
+  height: 100%
+}
+body{
+  background: url('./assets/content.svg')
+}
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  -box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  background: #414141;
+  -box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
+}
+
+::-webkit-scrollbar-thumb:window-inactive {
+  background: #414141;
+}
+
+.scroll-box {
+  overflow-y: scroll;
+  height: 200px;
+  border: 1px solid #ccc;
+}
